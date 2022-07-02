@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "xgmqe0-6u2a-n0lk-obtyvl",
+      "timestamp": "2022-7-2 18:26:5",
+      "body": "milk the cows",
+      "status": "Complete"
+    },
+    {
+      "id": 2,
+      "timestamp": "",
+      "body": "wash your body",
+      "status": "Complete"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
